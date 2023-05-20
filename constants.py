@@ -13,4 +13,4 @@ BLUE = (0, 0, 255)
 GREY = (128,128,128)
 BROWN = (67, 39, 15)
 
-CROWN = pygame.transform.scale(pygame.image.load('/Users/mohammadashraf/Downloads/321e0ec13610ac9a7f8fbdc01b3b802f.png'), (44, 25))
+CROWN = pygame.transform.scale(pygame.image.load('321e0ec13610ac9a7f8fbdc01b3b802f.png'), (44, 25))
